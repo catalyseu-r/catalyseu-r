@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]
+👋 Hello, I'm Rudi
 
 🌐 Frontend Developer | UI/UX Designer
 
