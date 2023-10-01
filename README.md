@@ -23,7 +23,7 @@ I'm not just building websites; I'm crafting memorable online experiences. Wheth
 
 I'm driven by the belief that great design can elevate user experiences. My journey as a self-taught designer has deepened my appreciation for the marriage of aesthetics and functionality.
 
-🌟 **My design work: [Dribbble]([https://dribbble.com/catalysteu-r](https://dribbble.com/catalysteu-r)**
+🌟 **My design work: [Dribbble](https://dribbble.com/catalysteu-r)**
 
 Visit my portfolio to discover projects where I've merged my skills in development and design to create seamless and engaging web solutions.
 
