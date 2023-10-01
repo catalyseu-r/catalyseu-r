@@ -1,15 +1,34 @@
-👋 Hello, I'm Rudi
+### Hi, I'm Rudi 
 
-🌐 Frontend Developer | UI/UX Designer
+🌐 **Self-taught Frontend Developer & Aspiring UI/UX Designer**
 
-🎨 Passionate about crafting beautiful and user-centric web experiences.
+From a self-taught coder to a design enthusiast, I've embarked on an exciting journey of discovery. With **1.5 years** of professional experience in frontend development, I've recently delved into the captivating realm of UI/UX design, where I'm eager to combine my development skills with a keen eye for aesthetics.
 
-💼 Currently available for freelance projects and collaborations.
+💼 **Open for Freelance Opportunities**
 
-💻 Tech Stack: HTML, CSS, JavaScript, React
+I'm not just building websites; I'm crafting memorable online experiences. Whether it's breathing life into web applications or designing interfaces that users love, I'm here to turn your ideas into reality.
 
-🌟 Check out my portfolio [here](https://yourportfolio.com)
+💻 **Tech Stack:**
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)
+- HTML5
+- CSS3 (SASS/SCSS/Tailwind)
+- JavaScript
+- ReactJS
+- NextJS
+- Figma
+- Responsive Design
+- Accessibility Best Practices
 
-🚀 Let's create something awesome together!
+🎨 **Passion for Design:**
+
+I'm driven by the belief that great design can elevate user experiences. My journey as a self-taught designer has deepened my appreciation for the marriage of aesthetics and functionality.
+
+🌟 **My design work: [Dribbble]([https://dribbble.com/catalysteu-r](https://dribbble.com/catalysteu-r)**
+
+Visit my portfolio to discover projects where I've merged my skills in development and design to create seamless and engaging web solutions.
+
+📫 **Let's Connect:**
+
+- [LinkedIn](https://www.linkedin.com/in/rudvl/)
+
+🚀 **Ready to Collaborate and Craft Exceptional Online Experiences!**
