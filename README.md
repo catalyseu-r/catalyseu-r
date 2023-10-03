@@ -25,7 +25,6 @@ I'm driven by the belief that great design can elevate user experiences. My jour
 
 🌟 **My design work: [Dribbble](https://dribbble.com/catalysteu-r)**
 
-Visit my portfolio to discover projects where I've merged my skills in development and design to create seamless and engaging web solutions.
 
 📫 **Let's Connect:**
 
