@@ -11,17 +11,18 @@ I'm not just building websites; I'm crafting memorable online experiences. Wheth
 💻 **Tech Stack:**
 
 - HTML5
-- CSS3 (SASS/SCSS/Tailwind)
-- JavaScript
+- CSS3 (SASS/Tailwind)
+- JavaScript (TypeScript)
 - ReactJS
 - NextJS
+- NodeJS
 - Figma
+- Component libraries
+- State managment libraries
+- Web Design
+- Banner Design
 - Responsive Design
 - Accessibility Best Practices
-
-🎨 **Passion for Design:**
-
-I'm driven by the belief that great design can elevate user experiences. My journey as a self-taught designer has deepened my appreciation for the marriage of aesthetics and functionality.
 
 🌟 **My design work: [Dribbble](https://dribbble.com/catalysteu-r)**
 
@@ -29,5 +30,3 @@ I'm driven by the belief that great design can elevate user experiences. My jour
 📫 **Let's Connect:**
 
 - [LinkedIn](https://www.linkedin.com/in/rudvl/)
-
-🚀 **Ready to Collaborate and Craft Exceptional Online Experiences!**
