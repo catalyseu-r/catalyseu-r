@@ -1,36 +1,29 @@
-### Hi, I'm Rudi 
 
-🌐 **Self-taught Frontend Developer & Aspiring UI/UX Designer**
+# 👋 Hi, I'm Rudi! 
 
-From a self-taught coder to a design enthusiast, I've embarked on an exciting journey of discovery. With **1.5 years** of professional experience in frontend development, I've recently delved into the captivating realm of UI/UX design, where I'm eager to combine my development skills with a keen eye for aesthetics.
-
+I'm a self-taught Front-End Developer based in Split, Croatia, with a deep passion for technology and a strong collaborative spirit.
 
 
-💼 **Open for Freelance Opportunities**
+## 🛠 Skills
 
-I'm not just building websites; I'm crafting memorable online experiences. Whether it's breathing life into web applications or designing interfaces that users love, I'm here to turn your ideas into reality.
+💻  **Front-End Development:**
 
-
-💻 **Tech Stack:**
-
-- HTML5
-- CSS3 (SASS/Tailwind)
-- JavaScript (TypeScript)
+- HTML5 / CSS
+- SCSS / Tailwind
+- JavaScript (TypeScript)   
 - ReactJS
 - NextJS
-- NodeJS
-- Figma
-- Component libraries
-- State managment libraries
-- Web Design
-- Banner Design
-- Responsive Design
-- Accessibility Best Practices
 
+⚛ **State management** 
 
-🌟 **My design work: [Dribbble](https://dribbble.com/catalysteu-r)**
+- Redux
+- RTK
+- Jotai
 
+👩🏻‍💻 **Component Libraries:**
+- Material UI
+- Kendo UI
 
-📫 **Let's Connect:**
-
-- [LinkedIn](https://www.linkedin.com/in/rudvl/)
+👨🏻‍🎨  **UI/UX Design:**
+- Actively building UI designs
+- Proficient in Figma
