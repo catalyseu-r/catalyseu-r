@@ -30,6 +30,6 @@ I specialize in Front-End Development, and my skill set includes:
 
 ## 🔗 Let's Connect
 
-I'm actively looking for job opportunities and exciting projects to work on. If you're interested in collaborating or want to reach out, feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or drop me an email at [vladusic.rudi@gmail.com](mailto:vladusic.rudi@gmail.com).
+I'm actively looking for job opportunities and exciting projects to work on. If you're interested in collaborating or want to reach out, feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/rudvl/) or drop me an email at [vladusic.rudi@gmail.com](mailto:vladusic.rudi@gmail.com).
 
 Let's build amazing web experiences together! 🚀
